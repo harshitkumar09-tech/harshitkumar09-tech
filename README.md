@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harshit Kumar 👋</h1>
-<h3 align="center">B.Tech student · Machine Learning & AI enthusiast · Hackathon builder</h3>
+<h3 align="center">B.Tech Generative AI student · Machine Learning & AI enthusiast · Hackathon builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshit-kumar-91685232b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 2nd-year B.Tech student
+- 🎓 2nd-year B.Tech (Generative AI) student at **Jain (Deemed-to-be University)**, Bengaluru
 - 🤖 Exploring **machine learning** — regression, classification, SVMs, decision trees and random forests
 - 🏆 Built **ChainTrace** with Team Unfilter for **Smart India Hackathon 2026**
 - 🌱 Always learning something new in AI and software development
